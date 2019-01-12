@@ -1,9 +1,10 @@
-title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+title: nicohman
+url: "https://nicohman.demenses.net"
+baseurl: "/"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
+remote_theme: ankitsultana/researcher@gem
 
 tracking_id: #
 
@@ -17,8 +18,8 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
+   link: "/"
  - name: "Contact"
    link: "contact"
+ - name: "Git"
+   link: "https://git.sr.ht/~nicohman"

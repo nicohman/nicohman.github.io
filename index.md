@@ -4,42 +4,54 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="profile.png">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Hello! I'm a high school senior passionate about coding and hacking on cool stuff, planning to major in Computer Science in the fall. 
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+## Programming
 
-## Research Interest
+I've used a variety of languages and frameworks for different projects, though admittedly I have recently been using a lot of Rust. Beyond that, I've used:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+- NodeJS for web servers
 
-## Publications
+- MongoDB for document storage
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+- Some limited experience in C, C++, and Python.
 
-## Typography
+- Client-side web applications using both jQuery and vanilla JavaScript.
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+Recently, I swapped from github to [sr.ht](https://sr.ht) for most of my major projects.
 
-Here is a table
+## Projects
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+Here's a list of the projects I've written that I feel are useful enough to others to share(though I by no means claim they are all *optimal*). 
 
-Here is a horizontal rule
+### CLI Apps
 
----
+- [eidolon](https://git.sr.ht/~nicohman/eidolon): A tool to manage and launch games on linux with minimalized bloat.
 
-Here is a blockquote
+- [raven](https://git.sr.ht/~nicohman/raven): A Rust-based theme manager for linux, supporting over 15 different ways to customize your rice.
 
-> To a great mind, nothing is little
+- [usb-main](https://github.com/nicohman/usb-main): A nodejs-based CLI tool to download, update, and burn images of Linux distros automatically.
 
-## References
+- [wyvern](https://git.sr.ht/~nicohman/wyvern): Still a WIP, this tools lets you easily download, update, sync the save files of and claim free games from [GOG.com](https://gog.com).
 
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+### Libraries
+
+- [butlerd-rs](https://git.sr.ht/~nicohman/butlerd-rs) : A Rust library to interface with itch.io's [butler daemon](https://github.com/itchio/butler).
+
+- [gogapi-rs](https://git.sr.ht/~nicohman/gogapi-rs): A Rust library for making calls to the GOG.com web API.
+
+- [ravenlib](https://git.sr.ht/~nicohman/ravenlib): The library that powers raven, available for others to easily build their own clients.
+
+### Excursions into the Web
+
+- [ravenserver](https://git.sr.ht/~nicohman/ravenserver): An online server for people to share and install raven themes from. I run an instance [here](https://demenses.net). Written using NodeJS, with zero client-side JavaScript.
+
+### Graphical Apps
+
+- [graven](https://git.sr.ht/~nicohman/graven): A graphical interface for raven, still in alpha.
+
+### Other
+
+- [school-alerter](https://github.com/nicohman/school-alerter) is a nodejs daemon that scrapes my school's Trumba calender and texts me every morning with what time I have to be at school that day, depending on the class schedule that day.

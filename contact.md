@@ -3,24 +3,15 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [nicohman@demenses.net](mailto:nicohman@demenses.net)
 
-* Phone: [+91-123123](tel:+91-123123)
+* [GPG Key](https://nicohman.demenses.net/public_key.txt)
 
----
-
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
-
+* Keybase: [nicohman](https://keybase.io/nicohman)
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [Mastodon](https://cybre.space/@nicohman)
+2. [sr.ht](https://git.sr.ht/~nicohman)
+3. [Github](https://github.com/nicohman)

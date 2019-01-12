@@ -23,3 +23,5 @@ nav:
    link: "contact"
  - name: "Git"
    link: "https://git.sr.ht/~nicohman"
+ - name: "Downloads"
+   link: "downloads"

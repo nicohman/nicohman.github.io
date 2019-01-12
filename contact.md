@@ -5,9 +5,10 @@ is_contact: true
 
 * Email: [nicohman@demenses.net](mailto:nicohman@demenses.net)
 
+* Keybase: [nicohman](https://keybase.io/nicohman)
+
 * [GPG Key](https://nicohman.demenses.net/public_key.txt)
 
-* Keybase: [nicohman](https://keybase.io/nicohman)
 ---
 
 ## Social

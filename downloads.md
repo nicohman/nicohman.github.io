@@ -26,13 +26,15 @@ Some of my projects get published to [crates.io](https://crates.io) when their v
 
 ### Pre-Compiled Binaries
 
-These projects are available, automatically compiled from the latest git commit. Checksums for all are [here](https://demenses.net/checksums)
+These projects are available, automatically compiled from the latest git commit. Checksums for all are [here](https://demenses.net/checksums). These are built using the wonderful [builds.sr.ht](https://builds.sr.ht)
 
 - [raven](https://demenses.net/raven-nightly) and [ravend](https://demenses.net/ravend-nightly)
 
 - [eidolon](https://demenses.net/eidolon-nightly)
 
 - [graven](https://demenses.net/graven-nightly)
+
+- [wyvern](https://demenses.net/wyvern-nightly)
 
 ### Packages in repositories
 

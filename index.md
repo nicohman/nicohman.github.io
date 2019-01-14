@@ -30,7 +30,7 @@ Here's a list of the projects I've written that I feel are useful enough to othe
 
 - [eidolon](https://git.sr.ht/~nicohman/eidolon): A tool to manage and launch games on linux with minimalized bloat.
 
-- [raven](https://git.sr.ht/~nicohman/raven): A Rust-based theme manager for linux, supporting over 15 different ways to customize your rice.
+- [raven](https://git.sr.ht/~nicohman/raven): A Rust-based theme manager for linux, supporting over 15 different ways to customize your rice. It also has a reasonably in-depth wiki [here](https://man.sr.ht/~nicohman/raven).
 
 - [usb-main](https://github.com/nicohman/usb-main): A nodejs-based CLI tool to download, update, and burn images of Linux distros automatically.
 
@@ -38,7 +38,7 @@ Here's a list of the projects I've written that I feel are useful enough to othe
 
 ### Libraries
 
-- [butlerd-rs](https://git.sr.ht/~nicohman/butlerd-rs) : A Rust library to interface with itch.io's [butler daemon](https://github.com/itchio/butler).
+- [butlerd-rs](https://git.sr.ht/~nicohman/butlerd-rs) : A Rust library to interface with [itch.io](https://itch.io)'s [butler daemon](https://github.com/itchio/butler).
 
 - [gogapi-rs](https://git.sr.ht/~nicohman/gogapi-rs): A Rust library for making calls to the GOG.com web API.
 

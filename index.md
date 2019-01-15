@@ -6,11 +6,13 @@ layout: default
 
 <img class="profile-picture" src="profile.png">
 
-Hello! I'm a high school senior passionate about coding and hacking on cool stuff, planning to major in Computer Science in the fall. 
+Hello! I'm a high school senior passionate about coding and hacking, planning to major in Computer Science in the fall. 
 
 ## Programming
 
-I've used a variety of languages and frameworks for different projects, though admittedly I have recently been using a lot of Rust. Beyond that, I've used:
+I've used a variety of languages and frameworks for different projects, including:
+
+- Rust for CLI and GUI applications, as well as some libraries
 
 - NodeJS for web servers
 

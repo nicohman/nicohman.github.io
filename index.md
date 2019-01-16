@@ -36,7 +36,7 @@ Here's a list of the projects I've written that I feel are useful enough to othe
 
 - [usb-main](https://github.com/nicohman/usb-main): A nodejs-based CLI tool to download, update, and burn images of Linux distros automatically.
 
-- [wyvern](https://git.sr.ht/~nicohman/wyvern): Still a WIP, this tools lets you easily download, update, sync the save files of and claim free games from [GOG.com](https://gog.com).
+- [wyvern](https://git.sr.ht/~nicohman/wyvern): This tool lets you easily download, update, sync the save files of and claim free games from [GOG.com](https://gog.com).
 
 ### Libraries
 

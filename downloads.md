@@ -16,6 +16,8 @@ Some of my projects get published to [crates.io](https://crates.io) when their v
 
 - [raven](https://crates.io/crates/raventhemer). Note: raven is published under the name raventhemer instead of raven, due to naming conflicts.
 
+- [wyvern](https://crates.io/crates/wyvern)
+
 #### Libraries
 
 - [butlerd-rs](https://crates.io/crates/butlerd)

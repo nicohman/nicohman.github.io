@@ -2,4 +2,4 @@
 cd /home/nicohman/nicohman.demenses.net
 git pull
 pkill -SIGKILL jekyll
-jekyll serve --detach &
+~/.gem/ruby/2.5.0/bin/jekyll serve --detach &

@@ -4,7 +4,7 @@ layout: default
 
 # About Me
 
-<img class="profile-picture" src="profile.png">
+<img class="profile-picture" src="profile.png" alt="Profile picture displaying a glitched NH">
 
 Hello! I'm a high school senior passionate about coding and hacking, planning to major in Computer Science in the fall. 
 
@@ -30,13 +30,13 @@ Here's a list of the projects I've written that I feel are useful enough to othe
 
 ### CLI Apps
 
-- [eidolon](https://git.sr.ht/~nicohman/eidolon): A tool to manage and launch games on linux with minimalized bloat.
+- [eidolon](https://git.sr.ht/~nicohman/eidolon): A Rust-based tool to manage and launch games on linux with minimalized bloat.
+
+- [wyvern](https://git.sr.ht/~nicohman/wyvern): Rust-based GOG client that lets you easily download, update, sync the save files of and claim free games from [GOG.com](https://gog.com).
 
 - [raven](https://git.sr.ht/~nicohman/raven): A Rust-based theme manager for linux, supporting over 15 different ways to customize your rice. It also has a reasonably in-depth wiki [here](https://man.sr.ht/~nicohman/raven).
 
 - [usb-main](https://github.com/nicohman/usb-main): A nodejs-based CLI tool to download, update, and burn images of Linux distros automatically.
-
-- [wyvern](https://git.sr.ht/~nicohman/wyvern): This tool lets you easily download, update, sync the save files of and claim free games from [GOG.com](https://gog.com).
 
 ### Libraries
 

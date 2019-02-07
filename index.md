@@ -22,7 +22,7 @@ I've used a variety of languages and frameworks for different projects, includin
 
 - Client-side web applications using both jQuery and vanilla JavaScript.
 
-Recently, I swapped from github to [sr.ht](https://sr.ht) for most of my major projects.
+Recently, I swapped from github to [sourcehut](https://sourcehut.org) for most of my major projects.
 
 ## Projects
 

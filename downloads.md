@@ -45,5 +45,3 @@ If you're maintaining a package of one of my projects, please email me and I'll 
 - [eidolon](https://aur.archlinux.org/packages/eidolon) on the AUR, along with a [git version](https://aur.archlinux.org/packages/eidolon-git/)
 
 - [wyvern](https://aur.archlinux.org/packages/wyvern) on the AUR, maintained by [@PinkCathodeCat@cathoderay.tube](https://cathoderay.tube/users/PinkCathodeCat)
-
-- [wyvern](https://ovh.themcphails.uk/index.php/s/XMiaypoDWKWs6HY/download) has been packaged as a snap helpfully by [GOG user mcphail](https://www.gog.com/u/mcphail)

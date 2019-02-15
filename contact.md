@@ -13,6 +13,8 @@ is_contact: true
 
 * [GPG Key](https://nicohman.demenses.net/public_key.txt)
 
+* I'm @nicohman:cybre.space on matrix/riot
+
 ### Social Profiles
 
 * [Mastodon](https://cybre.space/@nicohman)
